@@ -50,7 +50,7 @@ yarn dev
 
 ## 🚀 Deploy
 
-⇒ 
+⇒ https://memorygame-frontend.vercel.app/
 
 ## 🧑‍💻 Authors
 
